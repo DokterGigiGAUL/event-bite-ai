@@ -349,6 +349,9 @@ header p {
             background-color:#f0f0f0;
             border: 0px solid #ddd;
             border-radius: 20px;
+	    	-webkit-box-shadow: 0px 0px 3px #999999;
+       		-moz-box-shadow: 0px 0px 3px #999999;
+        	box-shadow: 0px 0px 3px #999999;
             /*box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);*/
             padding: 30px;
             text-align: center;
