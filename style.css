@@ -68,7 +68,7 @@ header p {
 .section1 {
             margin: 15px 0px 0px;
             padding:30px 20px;
-	background-color:#d1d5db;
+	background-color:#e1e1e1;
         }
 .section1 h2 {
             letter-spacing:-0.5px;
@@ -417,7 +417,7 @@ table, th, td {
         }
 .section1 {
         padding:30px 20px;
-		background:#d1d5db;
+		background:#e1e1e1;
         }
 	.section h2 {
             	letter-spacing:-0.5px;
