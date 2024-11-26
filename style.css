@@ -346,7 +346,7 @@ header p {
             justify-content: center;
         }
     .card {
-            background-color:#ffffff;
+            background-color:#f0f0f0;
             border: 0px solid #ddd;
             border-radius: 20px;
             /*box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);*/
@@ -418,7 +418,7 @@ table, th, td {
         }
 .section1 {
         padding:30px 20px;
-		background:#e1e1e1;
+		background:#ffffff;
         }
 	.section h2 {
             	letter-spacing:-0.5px;
