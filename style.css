@@ -132,7 +132,7 @@ header p {
             border: 1px solid #ccc;
         }
         .register-form button {
-            background-color: #006600;
+            background-color: #007800;
             color: white;
             border: none;
             cursor: pointer;
@@ -227,7 +227,7 @@ header p {
             transition: background-color 0.3s ease;
         }  
         .whatsapp-button {
-            background-color: #006600; /* Warna hijau khas WhatsApp */
+            background-color: #008800; /* Warna hijau khas WhatsApp */
             color: white;
 			font-weight:500;
             padding: 10px 20px;
@@ -240,7 +240,7 @@ header p {
             transition: background-color 0.3s ease;
         }
         .whatsapp-button:hover {
-            background-color: #003300; /* Warna hijau yang lebih gelap saat hover */
+            background-color: #006600; /* Warna hijau yang lebih gelap saat hover */
         }
         .whatsapp-button i {
             font-size: 19px;
